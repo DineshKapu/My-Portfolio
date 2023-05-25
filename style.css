@@ -116,9 +116,11 @@ padding-bottom:50px;
 {
 	margin-right:8px;
 }
-.xyz
+ .xyz
 {
-  height:400px;
+  height:300px;
+  width:300px;
+  margin-top:30px;
   display:flex;
   position:relative;
 }
